@@ -20,13 +20,10 @@ const Footer = () => {
                     <a href="https://www.linkedin.com/in/jos%C3%A9-ismael-daza-d%C3%ADaz-5b8257215" target="_blank" rel="noreferrer">
                         <i className="fab fa-linkedin red-social"/>
                     </a>
-                    <a href="https://twitter.com" target="_blank" rel="noreferrer">
-                        <i className="fab fa-twitter red-social"/>
-                    </a>
-                    <a href="https://facebook.com" target="_blank" rel="noreferrer">
+                    <a href="https://www.facebook.com/josedaza.diaz14/" target="_blank" rel="noreferrer">
                         <i className="fab fa-facebook red-social"/>
                     </a>
-                    <a href="https://facebook.com" target="_blank" rel="noreferrer">
+                    <a href="https://github.com/GodThyane" target="_blank" rel="noreferrer">
                         <i className="fab fa-github red-social"/>
                     </a>
                 </div>
