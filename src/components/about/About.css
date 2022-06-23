@@ -55,13 +55,13 @@ li {
         padding: 40px 20px 50px 20px;
     }
 
+    .about-description > p {
+        text-align: justify;
+    }
+
     .about-description > h3 {
         font-size: 20px;
         text-align: center;
-    }
-
-    .about-description > p{
-        padding: 35px;
     }
 
     .about-img {
